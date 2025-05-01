@@ -1,4 +1,4 @@
-<p style="text-align:center;">**Verge, Inc. Terms and Conditions of Sale**</p>
+<h2 style="text-align:center;">Verge, Inc. Terms and Conditions of Sale</h2>
 
 Version A
 
