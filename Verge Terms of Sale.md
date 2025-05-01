@@ -1,4 +1,8 @@
-		**Verge, Inc. Terms and Conditions of Sale**
+<p style="text-align:center;">**Verge, Inc. Terms and Conditions of Sale**</p>
+
+Version A
+
+Date: May 01, 2025
 
 Customer and Verge, Inc. ("Verge"), a Delaware corporation with offices at 1705 Robert S Light Blvd, Unit 101, Buda, Texas 78610, USA, agree that the purchase and sales of Verge hardware and software products (the “Products") are made under these terms and conditions (the “Terms”), and that Verge SHALL NOT BE BOUND BY CUSTOMER'S ADDITIONAL OR DIFFERENT TERMS. These Terms constitute a rejection of any counteroffer to any terms offered by Customer. Customer's order and purchase of the Products shall constitute acceptance of these Terms. 
 
